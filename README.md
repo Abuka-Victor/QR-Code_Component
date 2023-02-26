@@ -21,8 +21,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Coming soon](https://your-solution-url.com)
+- Live Site URL: [Click here to check out the live site](https://qrcompfm.netlify.app/)
 
 ## My process
 
@@ -58,6 +58,6 @@ These helped me to learn better how to use media queries.
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/abukaofficial)
+- Website - [Victor Abuka](https://www.victorabuka.netlify.app)
+- Frontend Mentor - [@Abuka-Victor](https://www.frontendmentor.io/profile/Abuka-Victor)
+- Twitter - [@abukaofficial](https://www.twitter.com/abukaofficial)
